@@ -1,0 +1,11 @@
+baseURL:
+languageCode: en-us
+title: moh.dani
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: About Me
+      name: About Me
+      url: /about_me
+      weight: 10
